@@ -18,4 +18,8 @@ layout :  Project > MINI_project > app > src > main > res > layout ,
 activity_home.xml ,
 activity_main.xml ,
 
+DATABASE NAME : referral , table name : userdb , TABLE STRUCTURE = ,
+
+uid | referid | count | flag | , 
+
 
